@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of Timdev0 school project
 
 You can use the [editor on GitHub](https://github.com/Timdev0/github-pages-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
